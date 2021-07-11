@@ -1,1 +1,3 @@
-bricknil
+pygatt
+pexpect
+pylgbst
